@@ -1,7 +1,8 @@
 #OSCP
 
-OSCP Preparation Day 0
-day-0
+OSCP Preparation 0 Day 
+
+Day 0
 From HTB Starting Point Machines - Tier 0 Machines - Meow
 We are not discussing answer to the machines but what knowledge one should have after he solved the machine.
 
